@@ -1,1 +1,3 @@
 
+![](../images/bear.png)
+
